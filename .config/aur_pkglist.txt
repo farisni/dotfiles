@@ -1,0 +1,6 @@
+autojump 22.5.3-11
+fontpreview 1.0.6-4
+rtl8852be-dkms-git r28.28daf8c-1
+v2raya 2.2.7.5-1
+yay 12.5.7-1
+yay-debug 12.5.7-1
