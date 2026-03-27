@@ -111,3 +111,5 @@ export PATH=~/.npm-global/bin:$PATH
 
 export EDITOR="nvim"
 alias config='/usr/bin/git --git-dir=/home/faris/.cfg/ --work-tree=/home/faris'
+
+
